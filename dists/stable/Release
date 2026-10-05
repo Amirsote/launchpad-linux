@@ -1,17 +1,23 @@
-Date: Mon, 05 Oct 2026 18:44:11 +0000
+Origin: Launchpad Linux
+Label: Launchpad Linux
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Date: Mon, 05 Oct 2026 18:47:06 +0000
 MD5Sum:
- 0cb38a872d6b8f6a821252a0c4482347               38 Release
+ b9a2ebdf91bb3e5a4dec08843149984b              154 Release
  e46bbbb4f5e3e37611a958c46b91f828              572 main/binary-amd64/Packages
  1086a0d553b14fe2a1f34ade8a2dc01e              422 main/binary-amd64/Packages.gz
 SHA1:
- 2b1eeb850dba5636a6baf1e33e4f4fae8439bb15               38 Release
+ 2c26530ccbb5b492c120a51eb12ce5f1cb8a84dc              154 Release
  9c653981e442ae8d861f80a3040ec4df75de4c50              572 main/binary-amd64/Packages
  437ad2350664b49d169ae7a516909be78b5df2b0              422 main/binary-amd64/Packages.gz
 SHA256:
- f77224fe7b0eed0380d2bce33f9612182e3c066163a6b4a2c9be1a77ce97a4cb               38 Release
+ ecaee20f47a6c70498a122931f4c4823a835d6cadc3beae00bbcda42c0261759              154 Release
  988b161a6cd66a7ff8bc2b3ba689c4d3d8ce9226531cc9decea9a3e99177e107              572 main/binary-amd64/Packages
  bd6fe1d20bfb81b94de597c5be7a431c06dd64f738e5d2b536051ca5d255ff35              422 main/binary-amd64/Packages.gz
 SHA512:
- 27fa8d09f314d924db1b52bcc7d8e57b2b55b92a14f475a4fea5c892d1a35291d721fbbf8764c9872b8b87c55ff4363a7002ac80aeed606270a9a2f175f59499               38 Release
+ f3f6967d6bd147dde7e1b99dd591915e6e77f42106b89c4a71cf5cdb08253aa437fbe496f5f024e7a96ee69a7bde93a5effe0d8ca1438202ba37b028191b2e30              154 Release
  7dbdf0faf2effb9bbba99bd3b5c50d3383b63b4fb001bf74cd6fbc44cbec6f60e715fe322c70d28fb9c7eee65efb8b700285b58c70a07f7ed387ef14d304430b              572 main/binary-amd64/Packages
  a23bd4528aa03dbc1c6265ac03361552b8bb0ba7002d21dca58a4299e3f0eb88cc4dc55031f0d5ac2a2948b7f7c03de04a890311be265b1b7b6bb3c54a17cdd3              422 main/binary-amd64/Packages.gz
