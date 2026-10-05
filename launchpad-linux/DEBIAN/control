@@ -1,0 +1,10 @@
+Package: launchpad-linux
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: Amir <amirvisia42@gmail.com>
+Depends: python3, python3-gi, gir1.2-gtk-3.0
+Description: macOS-style Launchpad for Linux Mint
+ A lightweight, dynamic application launcher built with Python and GTK 3,
+ optimized for Linux Mint and Plank dock integration.
