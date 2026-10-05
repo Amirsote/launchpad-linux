@@ -4,10 +4,10 @@ Architecture: amd64
 Maintainer: Amir <amirvisia42@gmail.com>
 Depends: python3, python3-gi, gir1.2-gtk-3.0
 Filename: pool/main/launchpad-linux.deb
-Size: 12432
-MD5sum: d6802ebdd2b46869e9bc3530a415cd2b
-SHA1: bc1b7fd2e99c9fd8cb7356580282d0dce9d2a2b2
-SHA256: 2767a6d59c54347a64df9a1161ada0db370370e041ed1656b83e4a6b85dcfe12
+Size: 12410
+MD5sum: fe459d98feb6cd92367bcb88b8e4dd75
+SHA1: e0a2a7ffa0136a67e1d1319cc34923a0b9416273
+SHA256: 92801fead8d1188eae4ba0b3c9a52daf0ecf53c651252dd1f4f18d1d9adfc4a2
 Section: utils
 Priority: optional
 Description: macOS-style Launchpad for Linux Mint

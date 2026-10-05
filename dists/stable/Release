@@ -1,23 +1,17 @@
-Origin: Launchpad Linux
-Label: Launchpad Linux
-Suite: stable
-Codename: stable
-Architectures: amd64
-Components: main
-Date: Mon, 05 Oct 2026 18:47:06 +0000
+Date: Mon, 05 Oct 2026 19:33:06 +0000
 MD5Sum:
- b9a2ebdf91bb3e5a4dec08843149984b              154 Release
- e46bbbb4f5e3e37611a958c46b91f828              572 main/binary-amd64/Packages
- 1086a0d553b14fe2a1f34ade8a2dc01e              422 main/binary-amd64/Packages.gz
+ c3f8abf4b9b2830ac279287a7e5e37fc               38 Release
+ e2cf3a9f71093d3483e2a399dc8a2b3f              572 main/binary-amd64/Packages
+ 0116f613174730397a9790d9224d7d92              421 main/binary-amd64/Packages.gz
 SHA1:
- 2c26530ccbb5b492c120a51eb12ce5f1cb8a84dc              154 Release
- 9c653981e442ae8d861f80a3040ec4df75de4c50              572 main/binary-amd64/Packages
- 437ad2350664b49d169ae7a516909be78b5df2b0              422 main/binary-amd64/Packages.gz
+ 9abac6de98d8861049982f1a0944826c81faf0da               38 Release
+ 59f75092842f5f7975c81b2172a8b5b8c4ea8406              572 main/binary-amd64/Packages
+ 0bf30af3ef5d64ca3c55316e4d964a91e9950487              421 main/binary-amd64/Packages.gz
 SHA256:
- ecaee20f47a6c70498a122931f4c4823a835d6cadc3beae00bbcda42c0261759              154 Release
- 988b161a6cd66a7ff8bc2b3ba689c4d3d8ce9226531cc9decea9a3e99177e107              572 main/binary-amd64/Packages
- bd6fe1d20bfb81b94de597c5be7a431c06dd64f738e5d2b536051ca5d255ff35              422 main/binary-amd64/Packages.gz
+ b55d0bf5ed27f9c5f9996b52e84e377432f39c46c03ece18acb7e242206f1a5b               38 Release
+ 4ec56920c3f7b28cb996363dec871f16c2cbe2eab75b2af2870c50d9de518854              572 main/binary-amd64/Packages
+ a74d51b7b0e88f7f6828b1114a04f8f6a1f984a9a6fb7dade833924034c33d8d              421 main/binary-amd64/Packages.gz
 SHA512:
- f3f6967d6bd147dde7e1b99dd591915e6e77f42106b89c4a71cf5cdb08253aa437fbe496f5f024e7a96ee69a7bde93a5effe0d8ca1438202ba37b028191b2e30              154 Release
- 7dbdf0faf2effb9bbba99bd3b5c50d3383b63b4fb001bf74cd6fbc44cbec6f60e715fe322c70d28fb9c7eee65efb8b700285b58c70a07f7ed387ef14d304430b              572 main/binary-amd64/Packages
- a23bd4528aa03dbc1c6265ac03361552b8bb0ba7002d21dca58a4299e3f0eb88cc4dc55031f0d5ac2a2948b7f7c03de04a890311be265b1b7b6bb3c54a17cdd3              422 main/binary-amd64/Packages.gz
+ 2c9a4d2650fa872e393f300493132814de1d0d0eed87c4dcc5b4a9afe9ae2cc8368247171f299068044d5977eceab0bc4feae73f94430b818d688639b7ea60b8               38 Release
+ 4b230b18397b62a25133b7c4c221e5abd8a833cc5c16a01b71f267bce457803ab50b7dcc84c8a97a5234c3ad341bed0232f0829f0ab6d2d342076e84a59c320b              572 main/binary-amd64/Packages
+ c42a6709116a73f521bae52c2f32a9a93218ec1fd0fdf2070b226f6682a65fbb0257391ef5fdb9df25328662bd957c1084f0c66eb630fa9e4fdec133034bdef1              421 main/binary-amd64/Packages.gz
