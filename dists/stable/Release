@@ -1,0 +1,7 @@
+Origin: Launchpad Linux PPA
+Label: Launchpad
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Repositorio oficial para Launchpad Linux
