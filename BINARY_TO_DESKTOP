@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Launchpad macOS
+Comment=Un launchpad estilo macOS para Linux Mint
+Exec=/home/amirmint/Escritorio/Launchpad_data
+Icon=/home/amirmint/Escritorio/Launchpad_data/Launchpad-Mac-Icon.ico
+Terminal=false
+Type=Application
+Categories=Utility;
